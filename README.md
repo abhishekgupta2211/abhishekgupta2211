@@ -1,25 +1,42 @@
-# Hi 👋, I'm Abhishek Gupta
+# Hi there 👋 I'm Abhishek Gupta
 
-### 🚀 Flutter Developer | Android & iOS App Developer
+<h3 align="center">
+🚀 Flutter Developer | Android & iOS App Developer
+</h3>
 
-Passionate Flutter Developer with hands-on experience building and maintaining production-ready mobile applications for Android and iOS platforms.
+<p align="center">
+Building scalable, high-performance, and production-ready mobile applications with Flutter.
+</p>
 
-I specialize in Flutter, Firebase, REST APIs, MVVM Architecture, State Management, and App Store deployments. I enjoy creating scalable, high-performance mobile applications with clean architecture and modern UI/UX.
-
----
-
-## 💫 About Me
-
-* 💼 Junior Flutter Developer at Technobren Infotech Pvt. Ltd.
-* 📱 Building cross-platform mobile applications using Flutter
-* 🚀 Experience with Play Store & App Store Deployments
-* 🔥 Strong understanding of Firebase & REST APIs
-* 🌱 Continuously learning advanced Flutter architecture and best practices
-* ⚡ Passionate about creating responsive and user-friendly applications
+<p align="center">
+Flutter • Dart • Firebase • REST APIs • MVVM • Android • iOS
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 👨‍💻 About Me
+
+I'm a **Flutter Developer** passionate about creating fast, scalable, and user-friendly mobile applications.
+
+Currently, I develop and maintain **production-ready Android and iOS applications** using Flutter, with experience in complete app development—from UI implementation and API integration to Firebase services and Play Store/App Store deployment.
+
+I enjoy writing clean, maintainable code and continuously improving my skills by learning modern Flutter architecture and best development practices.
+
+---
+
+# 🚀 What I Do
+
+* 📱 Build cross-platform Android & iOS applications using Flutter
+* 🔥 Integrate Firebase services and REST APIs
+* 🏗️ Develop scalable applications using MVVM Architecture
+* 🎨 Create responsive and modern UI/UX
+* 🚀 Publish applications to Google Play Store & Apple App Store
+* 🍎 Manage TestFlight releases and iOS builds
+* 🔄 Collaborate using Git, GitHub & GitHub Actions
+
+---
+
+# 🛠️ Tech Stack
 
 ### Mobile Development
 
@@ -28,10 +45,11 @@ I specialize in Flutter, Firebase, REST APIs, MVVM Architecture, State Managemen
 * Android Development
 * iOS Development
 
-### Architecture & State Management
+### Architecture
 
-* MVVM Architecture
+* MVVM
 * Provider
+* Clean Architecture
 
 ### Backend & Cloud
 
@@ -40,125 +58,114 @@ I specialize in Flutter, Firebase, REST APIs, MVVM Architecture, State Managemen
 * Firebase Storage
 * Firebase Cloud Messaging (FCM)
 * REST API Integration
-
-### Local Storage
-
 * SharedPreferences
 
-### Tools & Platforms
+### Databases
+
+* MySQL
+* Microsoft SQL Server (MSSQL)
+* Cloud Firestore
+
+### Frontend
+
+* HTML5
+* CSS3
+* Bootstrap
+* JavaScript
+
+### Version Control & CI/CD
 
 * Git
 * GitHub
-* Postman
+* GitHub Actions
+
+### Tools
+
 * Android Studio
 * VS Code
 * Xcode
+* Postman
 * Figma
 
 ### Deployment
 
 * Google Play Console
 * Apple App Store Connect
-* TestFlight Distribution
+* TestFlight
 
 ---
 
 # 📱 Featured Projects
 
-## 🚶 SHIFT – Health & Fitness Application
+## 🚶 SHIFT – Health & Fitness Platform
 
-A feature-rich fitness application focused on activity tracking and social engagement.
+A production-ready fitness application with activity tracking, community engagement, premium membership, and real-time statistics.
 
-### Key Features
+**Highlights**
 
 * Step Tracking
 * Goal Management
-* Community Feed
-* Friends System
+* Friends & Community
 * Groups & Leaderboards
-* Premium Membership Features
 * Push Notifications
+* Premium Features
+* Dark Mode
 * Responsive UI
 
-### Technologies
-
-Flutter • Firebase • REST APIs • Provider • MVVM
+**Tech:** Flutter • Firebase • REST APIs • MVVM • Provider
 
 ---
 
 ## 📈 BeTrade – Trading Platform
 
-A modern trading application designed for seamless user experience and secure transactions.
+A modern trading application focused on performance, secure authentication, wallet management, and API-driven architecture.
 
-### Key Features
-
-* Wallet Management
-* Trading Dashboard
-* Secure Authentication
-* Real-Time Data Integration
-* API Driven Architecture
-* Modern UI Design
-
-### Technologies
-
-Flutter • REST APIs • Provider • SharedPreferences
+**Tech:** Flutter • REST APIs • Provider • SharedPreferences
 
 ---
 
 ## ⚽ Sports Creates Memories (SCM)
 
-A sports-focused mobile application built to connect sports enthusiasts and create memorable sporting experiences.
+A sports community platform that enables users to participate in events, coordinate teams, and stay connected through real-time updates.
 
-### Key Features
-
-* Sports Community Management
-* Event Participation
-* Team Coordination
-* User Profiles
-* Real-Time Updates
-* Responsive Mobile Experience
-
-### Technologies
-
-Flutter • REST APIs • Provider • Firebase
+**Tech:** Flutter • Firebase • REST APIs
 
 ---
 
-## 🔥 Core Expertise
+# 💼 Core Expertise
 
-✅ Flutter App Development
-
-✅ Android & iOS Development
-
-✅ Firebase Integration
-
-✅ REST API Integration
-
-✅ Authentication Systems
-
-✅ Push Notifications (FCM)
-
-✅ Image Upload & Management
-
-✅ Pagination & Infinite Scrolling
-
-✅ Search & Filtering
-
-✅ State Management
-
-✅ Responsive UI Development
-
-✅ Play Store Deployment
-
-✅ App Store Deployment
-
-✅ TestFlight Management
-
-✅ Git & GitHub Workflow
+* Flutter App Development
+* Android & iOS Development
+* Firebase Integration
+* REST API Integration
+* MVVM Architecture
+* Provider State Management
+* Responsive UI Development
+* Authentication & Authorization
+* Push Notifications (FCM)
+* Image Upload & File Management
+* Pagination & Infinite Scrolling
+* Search & Filtering
+* Git & GitHub
+* GitHub Actions (CI/CD)
+* Google Play Store Deployment
+* Apple App Store Deployment
+* TestFlight Distribution
 
 ---
 
-## 🎓 Education
+# 📚 Currently Exploring
+
+* Flutter Performance Optimization
+* Clean Architecture
+* CI/CD Automation
+* Advanced State Management
+* Flutter Testing
+* Scalable App Architecture
+
+---
+
+# 🎓 Education
 
 **Diploma in Information Technology**
 
@@ -166,17 +173,25 @@ Government Polytechnic Aurai, Bhadohi (2025)
 
 ---
 
-## 📫 Connect With Me
+# 🤝 Connect With Me
 
-💼 LinkedIn:
+💼 **LinkedIn**
 [www.linkedin.com/in/abhishek-gupta-2937872a4](http://www.linkedin.com/in/abhishek-gupta-2937872a4)
 
-💻 GitHub:
+💻 **GitHub**
 github.com/abhishekgupta2211
 
-📧 Email:
+📧 **Email**
 [abhishekarvind9369@gmail.com](mailto:abhishekarvind9369@gmail.com)
 
 ---
 
-### ⭐ “Turning ideas into scalable mobile applications with Flutter.”
+# 💭 Developer Philosophy
+
+> *"I believe great mobile applications are built with clean architecture, scalable code, and an exceptional user experience."*
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</h3>
