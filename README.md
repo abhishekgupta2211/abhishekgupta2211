@@ -9,7 +9,15 @@ Building scalable, high-performance, and production-ready mobile applications wi
 </p>
 
 <p align="center">
-Flutter • Dart • Firebase • REST APIs • MVVM • Android • iOS
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVVM-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+
 </p>
 
 ---
@@ -38,60 +46,82 @@ I enjoy writing clean, maintainable code and continuously improving my skills by
 
 # 🛠️ Tech Stack
 
-### Mobile Development
+### 📱 Mobile Development
 
-* Flutter
-* Dart
-* Android Development
-* iOS Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+</p>
 
-### Architecture
+---
 
-* MVVM
-* Provider
-* Clean Architecture
+### 🏗️ Architecture
 
-### Backend & Cloud
+<p>
+  <img src="https://img.shields.io/badge/MVVM-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Provider-1976D2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clean_Architecture-0A66C2?style=for-the-badge"/>
+</p>
 
-* Firebase Authentication
-* Cloud Firestore
-* Firebase Storage
-* Firebase Cloud Messaging (FCM)
-* REST API Integration
-* SharedPreferences
+---
 
-### Databases
+### 🔥 Backend & Cloud
 
-* MySQL
-* Microsoft SQL Server (MSSQL)
-* Cloud Firestore
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase" />
+  <img src="https://img.shields.io/badge/Firebase_Authentication-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Firebase_Storage-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Firebase_Cloud_Messaging-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SharedPreferences-607D8B?style=for-the-badge"/>
+</p>
 
-### Frontend
+---
 
-* HTML5
-* CSS3
-* Bootstrap
-* JavaScript
+### 💾 Databases
 
-### Version Control & CI/CD
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
 
-* Git
-* GitHub
-* GitHub Actions
+---
 
-### Tools
+### 🌐 Frontend
 
-* Android Studio
-* VS Code
-* Xcode
-* Postman
-* Figma
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
 
-### Deployment
+---
 
-* Google Play Console
-* Apple App Store Connect
-* TestFlight
+### ⚙️ Version Control & CI/CD
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions" />
+</p>
+
+---
+
+### 🛠️ Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,postman" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>
+</p>
+
+---
+
+### 🚀 Deployment
+
+<p>
+  <img src="https://img.shields.io/badge/Google_Play_Console-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/>
+  <img src="https://img.shields.io/badge/App_Store_Connect-0D96F6?style=for-the-badge&logo=appstore&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=testflight&logoColor=white"/>
+</p>
 
 ---
 
