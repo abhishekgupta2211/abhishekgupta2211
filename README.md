@@ -1,23 +1,13 @@
 # Hi there 👋 I'm Abhishek Gupta
 
-<h3 align="center">
-🚀 Flutter Developer | Android & iOS App Developer
-</h3>
+<h3 align="center">🚀 Flutter Developer | Android & iOS App Developer</h3>
 
 <p align="center">
 Building scalable, high-performance, and production-ready mobile applications with Flutter.
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MVVM-6A1B9A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,apple,git" />
 </p>
 
 ---
@@ -26,7 +16,7 @@ Building scalable, high-performance, and production-ready mobile applications wi
 
 I'm a **Flutter Developer** passionate about creating fast, scalable, and user-friendly mobile applications.
 
-Currently, I develop and maintain **production-ready Android and iOS applications** using Flutter, with experience in complete app development—from UI implementation and API integration to Firebase services and Play Store/App Store deployment.
+Currently, I develop and maintain **production-ready Android and iOS applications** using Flutter, with experience in complete app development — from UI implementation and API integration to Firebase services and Play Store / App Store deployment.
 
 I enjoy writing clean, maintainable code and continuously improving my skills by learning modern Flutter architecture and best development practices.
 
@@ -49,9 +39,7 @@ I enjoy writing clean, maintainable code and continuously improving my skills by
 ### 📱 Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,java,swift,apple" />
 </p>
 
 ---
@@ -59,9 +47,9 @@ I enjoy writing clean, maintainable code and continuously improving my skills by
 ### 🏗️ Architecture
 
 <p>
-  <img src="https://img.shields.io/badge/MVVM-6A1B9A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Provider-1976D2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Clean_Architecture-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MVVM-6A1B9A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-0A66C2?style=for-the-badge" />
 </p>
 
 ---
@@ -70,12 +58,15 @@ I enjoy writing clean, maintainable code and continuously improving my skills by
 
 <p>
   <img src="https://skillicons.dev/icons?i=firebase" />
-  <img src="https://img.shields.io/badge/Firebase_Authentication-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Firebase_Storage-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Firebase_Cloud_Messaging-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SharedPreferences-607D8B?style=for-the-badge"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Authentication-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase_Storage-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloud_Messaging-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SharedPreferences-607D8B?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
 ---
@@ -83,9 +74,8 @@ I enjoy writing clean, maintainable code and continuously improving my skills by
 ### 💾 Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 ---
@@ -106,11 +96,11 @@ I enjoy writing clean, maintainable code and continuously improving my skills by
 
 ---
 
-### 🛠️ Development Tools
+### 🧰 Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,postman" />
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
 </p>
 
 ---
@@ -118,9 +108,9 @@ I enjoy writing clean, maintainable code and continuously improving my skills by
 ### 🚀 Deployment
 
 <p>
-  <img src="https://img.shields.io/badge/Google_Play_Console-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/>
-  <img src="https://img.shields.io/badge/App_Store_Connect-0D96F6?style=for-the-badge&logo=appstore&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=testflight&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Play_Console-414141?style=for-the-badge&logo=googleplay&logoColor=white" />
+  <img src="https://img.shields.io/badge/App_Store_Connect-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=testflight&logoColor=white" />
 </p>
 
 ---
@@ -205,14 +195,11 @@ Government Polytechnic Aurai, Bhadohi (2025)
 
 # 🤝 Connect With Me
 
-💼 **LinkedIn**
-[www.linkedin.com/in/abhishek-gupta-2937872a4](http://www.linkedin.com/in/abhishek-gupta-2937872a4)
+💼 **LinkedIn** — [abhishek-gupta-2937872a4](https://www.linkedin.com/in/abhishek-gupta-2937872a4)
 
-💻 **GitHub**
-github.com/abhishekgupta2211
+💻 **GitHub** — [abhishekgupta2211](https://github.com/abhishekgupta2211)
 
-📧 **Email**
-[abhishekarvind9369@gmail.com](mailto:abhishekarvind9369@gmail.com)
+📧 **Email** — [abhishekarvind9369@gmail.com](mailto:abhishekarvind9369@gmail.com)
 
 ---
 
@@ -222,6 +209,4 @@ github.com/abhishekgupta2211
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-</h3>
+<h3 align="center">⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</h3>
