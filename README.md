@@ -12,6 +12,19 @@ Building scalable, high-performance, and production-ready mobile applications wi
 
 ---
 
+# 📊 GitHub Statistics & Contribution Streaks
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekgupta2211&show_icons=true&theme=radial&rank_icon=github" alt="Abhishek GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekgupta2211&theme=radial" alt="Abhishek GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekgupta2211&layout=compact&theme=radial" alt="Top Languages" />
+</p>
+
+---
+
 # 👨‍💻 About Me
 
 I'm a **Flutter Developer** passionate about creating fast, scalable, and user-friendly mobile applications.
