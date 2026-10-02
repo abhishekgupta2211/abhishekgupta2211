@@ -52,7 +52,7 @@ I enjoy writing clean, maintainable code and continuously improving my skills by
 ### 📱 Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,java,swift,apple" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,apple" />
 </p>
 
 ---
